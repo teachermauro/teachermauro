@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ruben Mauricio Munoz Morales currently enrolled in IT, Innovation and Design Program at Conestoga College.
-- 👀 I’m interested in online education, instructional design and websites.
+- 👋 Hi, I’m Ruben Mauricio Munoz Morales currently enrolled in Computer Programming at Conestoga College.
+- 👀 I’m interested in online education, instructional design and websites design.
 - 🌱 I’m currently learning C# and HTML.
 
 <!---
